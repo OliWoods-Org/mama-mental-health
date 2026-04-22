@@ -106,3 +106,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) when available.
     <strong>GPL-3.0 — If you're in crisis, call 988. This tool helps everyone else.</strong>
   </sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **CrisisDetector** | Monitors language for risk signals; MANDATORY 988/VCL handoff |
+| **PeerMatcher** | Connects users with trained peer support specialists |
+| **TherapistFinder** | Searches provider directories by insurance/specialty/location |
+| **CBTCoach** | Guided CBT psychoeducation exercises (not treatment) |
+| **MoodTracker** | Daily check-ins, pattern detection, insight generation |
+| **ResourceNavigator** | Local/national mental health resources, hotlines, support groups |
+| **SubstanceScreener** | AUDIT/DAST screening tools, SAMHSA referral for co-occurring disorders |
+| **SleepCoach** | Sleep hygiene assessment, CBT-I techniques, circadian rhythm guidance |
+| **TraumaNavigator** | Trauma-informed psychoeducation, grounding techniques, EMDR therapist finder |
+| **GroupFinder** | Support groups by condition, location, format (in-person/online/phone) |
+
+**10 agents. All free. MANDATORY 988 handoff on any crisis signal.**
